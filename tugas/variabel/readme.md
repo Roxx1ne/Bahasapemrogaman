@@ -1,0 +1,1 @@
+#rangkuman variabel
